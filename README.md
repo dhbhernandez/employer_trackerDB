@@ -22,15 +22,6 @@ Create an Employee Manager App
 
     - Delete departments, roles, and employees
 
-To deliever employee manager:
-
-    - Use the NPM package to connect to your MySQL database and perform queries.
-
-    - Use InquirerJs NPM package to interact with the user via the command-line.
-
-    - Use console.table to print MySQL rows to the console.
-
-    - Need to perform a variety of SQL JOINS.
 
 Techologies:
     - JavaScript
